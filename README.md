@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanmoy ( you can call me Tanny)
 - 👀 I’m interested in making projects which can change others lives
-- 🌱 I’m currently learning Big Data and AWS Services
+- 🌱 I’m currently working on Big Data, Data Lake Building, Snowflake and AWS Services
 - 💞️ I’m looking to collaborate on anyone who is into making great projects
 - 📫 Reach me on Linkedin: linkedin.com/in/tanmoymunshi/ or Instagram: @lifeoftanny
 
